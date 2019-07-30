@@ -7,6 +7,7 @@ make an installation here
 
 # 2A Clone a repo
 
+Graham mas made a branch that will clone a repo. This is the portion of code i will be developing
 
 
 # 2B Make a repo
