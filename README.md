@@ -21,3 +21,5 @@ you will see .git and .gitignore
 
 
 # 4 SMART ADD
+git add -p
+this prompts me for each change and asks if i want to stage them
