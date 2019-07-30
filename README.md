@@ -17,3 +17,7 @@ you will see .git and .gitignore
 
 
 # 3 Commit a change or two
+
+
+
+# 4 SMART ADD
