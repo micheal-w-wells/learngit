@@ -2,6 +2,7 @@
 
 
 # 1 Install Git
+make an installation here
 
 
 # 2A Clone a repo
