@@ -10,7 +10,7 @@
 
 # 2B Make a repo
 Make a repo 
-you will see .git and .gitignore
+you will see .git and, .gitignore.
 
 
 
