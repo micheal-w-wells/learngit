@@ -1,4 +1,4 @@
-# How to use git
+# How to use git for GIS people
 
 
 # 1 Install Git
