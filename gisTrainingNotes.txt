@@ -1,0 +1,125 @@
+GIS SPECIALIST Developer Education Track
+
+# Curriculum collaborators:
+
+	Micheal Wells
+	Nancy Elliot
+	Graham Macgregor
+	Sasha Lees
+
+	People to reach out to:
+
+	Will Burt
+	Jesse Frasier
+	Andy Muma
+	Geospatial regional coordination team
+
+	# How many GIS people do we have?
+	  100's 
+	  50-ish that  may use some of this
+
+# Goals: Provide a training path for GIS Specialists 
+	 to gain relevant-to-them developer essentials.
+
+	# Long term:
+	 - Tools for collaborating (open source)
+	 - Skills to publish user friendly, reusable, reliable code.
+	 - Reduce the amount of wheel reinventing
+	 - Reduce bureaucracy in finding existing solutions
+
+	 - Short term
+
+
+# Types of GIS solutions/maps that exist:
+
+	# arc/ESRI GUI
+	# python and arcpy 
+	# AGOL/ArcPro (and javascript)
+	# QGIS
+	# r
+
+	# mobile:
+		# avenza
+		# skunkworks:
+			# filemaker
+			# survey123
+			# collector (ESRI)
+	
+
+# Contextual Knowledge:
+
+	# Technology Lay of the land
+		# open source licensing 
+		# available stacks for GIS
+		# TODO: hosting options
+			ESRI
+			OpenShift
+
+		# Understand the new gov cloud
+			# Openshift
+			# Continous Integration
+			# Github collab
+
+	# A common interface:  Understand API's:
+		# CLI (command line interfaces)
+		# Web services (http based API's)
+			# REST
+			# SOAP (on its way out)
+		# API Standards
+
+	# TODO:  Research existing open source GIS tools
+		 GIS Dev community of practice
+
+		# GIS Open source show and tell
+
+
+# TOOLBOX:
+
+	# Python essentials:
+
+		# Python IDE's:
+			# IDLE 
+			# Pycharm (Jetbrains)
+			# vscode
+			# eclipse
+			# visual studio 
+
+		# python coding essentials:
+
+			#Beginner:
+
+				# How to set up a python project the right way
+					# set up a python local environment
+					# using pip, pyvenv, and putting them in git
+
+				# How to accept CLI args 
+
+				# Input validation
+				# Basic Exception handling
+
+				# Built in help commands
+
+			# Intermediate:
+				# unit testing
+
+				# calling API's in python
+				# Better Exception handling
+			
+		# advanced python:
+			# How to make a web service
+			# providing API specs, adhering to standards
+
+
+	# Git & code collaboration:
+		# How to use git
+		# Git vs Github
+		# Github workflow
+		# Useful git integrations
+			# jenkins/CI
+			# bots for chat (slack/rocket)
+	
+
+	# Advanced GIS Dev track:
+
+		# web services
+		
